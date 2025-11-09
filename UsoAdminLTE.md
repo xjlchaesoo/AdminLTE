@@ -14,7 +14,7 @@
 ## Estructura de Archivos
 
 Al descargar AdminLTE, encontrarás una estructura de carpetas organizada que facilita su implementación.
-
+```html
 AdminLTE/
 ├── dist/ # Archivos compilados (listos para usar)
 │ ├── css/
@@ -24,7 +24,7 @@ AdminLTE/
 ├── examples/ # Ejemplos de cómo usar las páginas
 ├── pages/ # Ejemplos de páginas
 └── index.html # Página de inicio de demostración 
-
+```
 > **Nota importante:** La carpeta `dist/` contiene los archivos ya compilados y listos para usar en producción.
 
 ## Uso con HTML Plano
@@ -59,9 +59,10 @@ Para prototipos rápidos o proyectos estáticos, AdminLTE puede usarse directame
     <script src="dist/js/adminlte.min.js"></script>
 </body>
 </html>
-```html
+```
 > Nota importante: La estructura básica requiere el contenedor `wrapper` que organiza toda la interfaz.
 
 Uso con PHP
 Para proyectos dinámicos con lógica de servidor, AdminLTE se integra perfectamente con PHP.
+
 
