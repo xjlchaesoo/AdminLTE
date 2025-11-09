@@ -277,8 +277,8 @@ Iremos explicando cada parte y por qué se usa.
 - css/custom.css (opcional, para estilos personalizados)
 - js/custom.js (para lógica personalizada)
 - incluir las dependencias necesarias (Bootstrap, jQuery, AdminLTE, Font Awesome, y Chart.js) a través de CDN.
-- 
-  > **Nota important:** Puedes llamar a tus archivos que desees.
+  
+> **Nota important:** Puedes llamar a tus archivos que desees.
   
 #### index.html
 ```html
@@ -608,7 +608,7 @@ Iremos explicando cada parte y por qué se usa.
 ## Explicación de lo que se uso y por qué:
 **1. Estructura HTML de AdminLTE**
    
-- **Wrapper principal:** <div class="wrapper"> - Contenedor principal que organiza toda la estructura
+- **Wrapper principal:** `<div class="wrapper">` Contenedor principal que organiza toda la estructura
 - **Navbar:** Barra de navegación superior con menús y notificaciones
 - **Sidebar:** Menú lateral con opciones de navegación
 - **Content Wrapper:** Área principal donde va el contenido
@@ -617,7 +617,7 @@ Iremos explicando cada parte y por qué se usa.
    
 - **Cards:** Para organizar el contenido en secciones visualmente atractivas
 - **Small boxes:** Para mostrar estadísticas clave con iconos y colores
-- **Charts:** Usé Chart.js para crear gráficos de datos
+- **Charts:** Usé `Chart.js` para crear gráficos de datos
 - **Todo list:** Lista de tareas interactiva
 - **User list:** Lista de usuarios con imágenes
 
