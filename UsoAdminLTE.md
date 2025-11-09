@@ -250,15 +250,12 @@ proyecto/
 ```
 ### Componentes comunes:
 3. Recuerda que existen las siguientes etiquetas que podemos aprovechar a usar para sacarle provecho a la plantilla. 
-```html
-- Cards: <div class="card">
 
-- Boxes: <div class="box">
-
-- Tables: <table class="table">
-
+- Cards: `<div class="card">`
+- Boxes: `<div class="box">`
+- Tables: `<table class="table">`
 - Forms: Formularios con clases de Bootstrap.
-```
+
 # Proyecto usando AdminLTE
 
 4. Ahora si vamos a crear un ejemplo real de un dashboard con AdminLTE que incluya:
